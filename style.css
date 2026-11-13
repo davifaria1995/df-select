@@ -670,7 +670,8 @@ footer {
         padding: 0 20px;
     }
 
-    .desktop-nav .header-cta {
+    .desktop-nav, 
+    .header-cta {
         display: none;
     }
 
